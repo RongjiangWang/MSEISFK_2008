@@ -10,6 +10,8 @@ to get the excutable code mseisfk.
 
 After start the executable code, the program ask for an input file in the ASCII format. An example input file is provided under folder "InputFile". You may change the input data included in this file for your own applications.
 
+A similar application example is given in QSEISFK_2011.
+
 References
 
 Wang, R., (1999), A simple orthonormalization method for stable and efficient computation of Green's functions, Bulletin of the Seismological Society of America, 89(3), 733-741.
